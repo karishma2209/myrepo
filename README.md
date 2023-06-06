@@ -1,2 +1,2 @@
 # myrepo
-just for learning github
+for leaning github
